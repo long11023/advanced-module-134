@@ -1,2 +1,5 @@
 # advanced-module-134
-An experimental project for learning
+
+This is a sample project written in **Go**.
+
+Generated automatically.
